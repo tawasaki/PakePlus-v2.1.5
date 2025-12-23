@@ -1,0 +1,8 @@
+
+{
+  "name": "鸳鸯管家",
+  "description": "一个专业的宠物喂养管理系统，支持条形码扫描、多级用户管理及宠物生命周期追踪。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
